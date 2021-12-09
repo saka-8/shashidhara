@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Edit <code>shashidhara's</code>PortFolio.
+          This is shashidhara's PortFolio.
         </p>
         {/* <img src={logo} className="App-logo" alt="logo" />
         <p>
